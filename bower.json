@@ -1,0 +1,12 @@
+{
+  "name": "dd-avatar",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "无惟 <guangbin.lianggb@alibaba-inc.com>"
+  ],
+  "keywords": [
+    "avatar"
+  ],
+  "license": "MIT"
+}
