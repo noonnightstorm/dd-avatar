@@ -1,0 +1,22 @@
+{
+  "name": "dd-avatar",
+  "version": "0.0.0",
+  "description": "&#160; &#160; &#160; &#160;这是一个简单的头像生成器，只要输入昵称，则会根据一定的算法切分名字和计算颜色值。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noonnightstorm/dd-avatar.git"
+  },
+  "keywords": [
+    "avatar"
+  ],
+  "author": "无惟",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noonnightstorm/dd-avatar/issues"
+  },
+  "homepage": "https://github.com/noonnightstorm/dd-avatar"
+}
